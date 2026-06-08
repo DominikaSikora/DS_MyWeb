@@ -100,9 +100,10 @@ nav ul li a:hover::after{
     font-size: 50px;
     margin-top: 20px;
 }
-.header-text h1 span{
-    color: #4864ff;
+.header-text h1 span {
+    color: #33001a; /* bardzo ciemny róż */
 }
+
 .header-text p{
     font-size: 33px;
     font-weight: 600;
