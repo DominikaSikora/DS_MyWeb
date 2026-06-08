@@ -14,7 +14,7 @@ html{
 }
 
 .light-theme{
-    --background: #ffd1e6;      /* jaśniejsza wersja na light mode */
+    --background: #ffd6ea;
     --text-color:#5c2a4a;
     --title-color:#ff4fa3;
 }
