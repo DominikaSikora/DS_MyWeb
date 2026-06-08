@@ -8,14 +8,15 @@ html{
     scroll-behavior: smooth;
 }
 :root{
-    --background: #000;
-    --text-color:#fff;
-    --title-color:#fff;
+    --background: #ffe4f2;      /* jasne różowe tło */
+    --text-color:#5c2a4a;       /* ciemniejszy róż dla tekstu */
+    --title-color:#ff4fa3;      /* mocniejszy róż dla nagłówków */
 }
+
 .light-theme{
-    --background: #e9ebee;
-    --text-color:#000;
-    --title-color:#000;
+    --background: #ffd1e6;      /* jaśniejsza wersja na light mode */
+    --text-color:#5c2a4a;
+    --title-color:#ff4fa3;
 }
 body{
     background: var(--background);
